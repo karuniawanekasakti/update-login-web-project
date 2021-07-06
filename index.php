@@ -17,12 +17,12 @@
         <input type="submit" onclick="return IsEmpty();">
     </form>
     <footer>
-    <p class="copyright">© kranwn2015</p>
+    <p class="copyright">login-page 2021 ©Ekas_ </p>
     </footer>
     <script>
         function IsEmpty() {
     if (document.forms['form'].username.value === "" || document.forms['form'].password.value === "") {
-        alert("username atau password tidak boleh kosong");
+        alert("username atau password tidak boleh kosong!");
         return false;
     }
     return true;
