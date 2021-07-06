@@ -88,3 +88,19 @@ body{
 
     background: #2ecc71;
 }
+
+footer{
+    text-align: center;
+}
+
+p.copyright{
+    position: absolute;
+    bottom: 0;
+    color: black;
+    text-align: center;
+}
+
+
+
+
+

@@ -16,5 +16,8 @@
         <input type="password" placeholder="Password" name="password">
         <input type="submit" >
     </form>
+    <footer>
+    <p class="copyright">© kranwn2015</p>
+    </footer>
 </body>
 </html>
