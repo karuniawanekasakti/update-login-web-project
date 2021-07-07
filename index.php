@@ -15,6 +15,9 @@
         <input type="text" placeholder="Username" name="username">
         <input type="password" placeholder="Password" name="password">
         <input type="submit" onclick="return IsEmpty();">
+        <div>
+            <p class="signup">Dont have account?click<a href="signUp.php"> Here!</a></p>
+        </div>
     </form>
     <footer>
     <p class="copyright">login-page 2021 ©Ekas_ </p>
