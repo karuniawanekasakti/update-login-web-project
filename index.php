@@ -16,7 +16,7 @@
         <input type="password" placeholder="Password" name="password">
         <input type="submit" onclick="return IsEmpty();">
         <div>
-            <p class="signup">Dont have account?click<a href="signUp.php"> Here!</a></p>
+            <p class="signup">Dont have account?Sign-Up<a href="signUp.php"> Here!</a></p>
         </div>
     </form>
     <footer>
